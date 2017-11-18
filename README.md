@@ -4,6 +4,5 @@ This package provides a password validator for django, only allowing passwords t
 
 ## How to use - with pip:
 
-#### Execute: `
-shell> pip install < requirements.txt
-`
+1. Execute: `shell> pip install < requirements.txt`
+2. Move file `password_validation.py` to your django app.
