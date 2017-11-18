@@ -6,4 +6,5 @@ This package provides a password validator for django, only allowing passwords t
 
 1. Execute: `shell> pip install < requirements.txt`
 2. Move file `password_validation.py` to your django app.
-3. Edit
+3. Edit `settings.py` file. [see image]
+![django-settings](https://raw.githubusercontent.com/gamergames123/django-dictionary-password-validator/master/Screenshot%20(47).png)
